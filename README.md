@@ -69,6 +69,8 @@ Want to build anime-style content channels
 
 You don’t need a production team anymore.
 
+<img width="3584" height="1806" alt="image" src="https://github.com/user-attachments/assets/449319d7-0581-488e-b460-f66ea61e8ddc" />
+
 🎯 Who Is It For?
 
 Aspiring anime storytellers
@@ -107,6 +109,8 @@ Automated timeline generation
 Video synthesis pipeline
 
 The goal is to build a complete AI-native anime creation workflow.
+
+<img width="3584" height="1806" alt="image" src="https://github.com/user-attachments/assets/824aa92a-0e1e-4430-818c-44cc32abe719" />
 
 🌱 Vision
 
@@ -228,6 +232,9 @@ AniV 底层结合了多种 AI 技术：
 
 整个过程不需要任何剪辑经验。
 
+<img width="3584" height="1806" alt="image" src="https://github.com/user-attachments/assets/78d7b162-fe1b-439b-a2b9-eec7b38a344f" />
+
+
 🎯 适合谁？
 
 想做动漫短视频账号的人
@@ -286,6 +293,9 @@ AniV 并不是简单的“图片拼接器”。
 我们希望未来把它做成：
 
 面向 AI 漫剧创作者的完整工作流工具。
+
+<img width="3584" height="1806" alt="image" src="https://github.com/user-attachments/assets/7574f5cd-53f9-4480-94d1-75d7e03dcbdb" />
+
 
 🌱 未来方向
 
