@@ -3,6 +3,8 @@
 Have a story in your head but don’t know how to draw, animate, or edit videos?
 Now you just need an idea.
 
+<img width="3584" height="1806" alt="image" src="https://github.com/user-attachments/assets/cf195101-02a0-4d24-8c2d-26f7915e64bf" />
+
 🌐 https://aniv.ai
 
 💡 What is AniV?
@@ -144,6 +146,9 @@ Would love feedback from the GitHub community.
 
 不会画画？不会剪辑？不会写复杂脚本？
 现在，你只需要一个想法。
+
+<img width="3584" height="1806" alt="image" src="https://github.com/user-attachments/assets/9c43d76b-621e-4de0-be45-3cb80604e9dd" />
+
 
 🌐 网站地址：https://aniv.ai
 
