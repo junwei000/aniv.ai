@@ -136,8 +136,6 @@ But stopped because:
 
 Give AniV a try.
 
-👉 https://aniv.ai
-
 Would love feedback from the GitHub community.
 
 ==========================
@@ -310,7 +308,5 @@ AI 连载剧模式
 不会写分镜
 
 可以试试 AniV。
-
-👉 https://aniv.ai
 
 欢迎提建议，也欢迎一起交流 AI 漫剧的未来。
