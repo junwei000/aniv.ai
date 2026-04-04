@@ -1,4 +1,4 @@
-## 🎬 AniV.ai — Create Your Own AI Anime Story (No Drawing Skills Required)
+## 🎬 Aniv.ai — Create Your Own AI Anime Story (No Drawing Skills Required)
 
 Have a story in your head but don’t know how to draw, animate, or edit videos?
 Now you just need an idea.
